@@ -8,7 +8,7 @@ from features.email_validation import validate_emails
 from features.lead_scoring import lead_scores
 from features.crm_export import generate_crm_csv
 
-from utils.helpers import read_csv, apply_lead_score_filter
+from utils.helpers import read_csv
 
 
 # SIDEBAR
